@@ -3,8 +3,15 @@ type CarTileProps = {
   brand: string;
   model: string;
   dailyPrice: string;
+  onDetails: () => void;
 };
-const CarTile = ({ image, brand, model, dailyPrice }: CarTileProps) => {
+const CarTile = ({
+  image,
+  brand,
+  model,
+  dailyPrice,
+  onDetails,
+}: CarTileProps) => {
   return (
     <>
       <img
@@ -20,6 +27,7 @@ const CarTile = ({ image, brand, model, dailyPrice }: CarTileProps) => {
         <div>Marka:{brand} </div>
         <div>Model: {model}</div>
         <div>Cena: {dailyPrice}</div>
+        <button onClick={onDetails}>Details</button>
       </div>
     </>
   );

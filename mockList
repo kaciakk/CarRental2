@@ -1,0 +1,72 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "brand": "BMW",
+      "model": "320i",
+      "color": "blue",
+      "engine": "2.0 Petrol",
+      "gearbox": "Automatic",
+      "dailyPrice": 250,
+      "segment": "sedan",
+      "image": "https://images.unsplash.com/photo-1617531653332-bd46c24f2068"
+    },
+    {
+      "id": 2,
+      "brand": "Audi",
+      "model": "A4",
+      "color": "black",
+      "engine": "2.0 TDI",
+      "gearbox": "Automatic",
+      "dailyPrice": 240,
+      "segment": "sedan",
+      "image": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6"
+    },
+    {
+      "id": 3,
+      "brand": "Alfa Romeo",
+      "model": "Giulia",
+      "color": "red",
+      "engine": "2.0 Petrol",
+      "gearbox": "Manual",
+      "dailyPrice": 230,
+      "segment": "sedan",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
+    },
+    {
+      "id": 4,
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "color": "white",
+      "engine": "1.5 Petrol",
+      "gearbox": "Manual",
+      "dailyPrice": 160,
+      "segment": "hatchback",
+      "image": "https://images.unsplash.com/photo-1549924231-f129b911e442"
+    },
+    {
+      "id": 5,
+      "brand": "Mercedes",
+      "model": "GLC",
+      "color": "silver",
+      "engine": "2.2 Diesel",
+      "gearbox": "Automatic",
+      "dailyPrice": 320,
+      "segment": "suv",
+      "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8"
+    },
+    {
+      "id": 6,
+      "brand": "Tesla",
+      "model": "Model 3",
+      "color": "white",
+      "engine": "Electric",
+      "gearbox": "Automatic",
+      "dailyPrice": 350,
+      "segment": "electric",
+      "image": "https://images.unsplash.com/photo-1619767886558-efdc259cde1a"
+    }
+  ],
+  "bookings": [],
+  "configs": []
+}

@@ -1,41 +1,19 @@
 {
   "cars": [
     {
-      "id": 1,
-      "brand": "BMW",
-      "model": "320i",
-      "color": "blue",
-      "engine": "2.0 Petrol",
-      "gearbox": "Automatic",
-      "dailyPrice": 250,
-      "segment": "sedan",
-      "image": "https://images.unsplash.com/photo-1617531653332-bd46c24f2068"
-    },
-    {
-      "id": 2,
-      "brand": "Audi",
-      "model": "A4",
-      "color": "black",
-      "engine": "2.0 TDI",
-      "gearbox": "Automatic",
-      "dailyPrice": 240,
-      "segment": "sedan",
-      "image": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6"
-    },
-    {
-      "id": 3,
-      "brand": "Alfa Romeo",
-      "model": "Giulia",
-      "color": "red",
-      "engine": "2.0 Petrol",
-      "gearbox": "Manual",
-      "dailyPrice": 230,
-      "segment": "sedan",
+      "id": "3",
+      "brand": "DDDDDDDDDDDDDDDDDaaasdasdasdas",
+      "model": "Giuliadasdasdasdas",
+      "color": "reddasdas",
+      "engine": "2.0 Petroldasdas",
+      "gearbox": "Manualdasdsa",
+      "dailyPrice": "230dsadass",
+      "segment": "sedandasdas",
       "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
     },
     {
-      "id": 4,
-      "brand": "Volkswagen",
+      "id": "4",
+      "brand": "alfa",
       "model": "Golf",
       "color": "white",
       "engine": "1.5 Petrol",
@@ -45,8 +23,8 @@
       "image": "https://images.unsplash.com/photo-1549924231-f129b911e442"
     },
     {
-      "id": 5,
-      "brand": "Mercedes",
+      "id": "5",
+      "brand": "Mercedesss",
       "model": "GLC",
       "color": "silver",
       "engine": "2.2 Diesel",
@@ -56,8 +34,8 @@
       "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8"
     },
     {
-      "id": 6,
-      "brand": "Tesla",
+      "id": "6",
+      "brand": "Teslad",
       "model": "Model 3",
       "color": "white",
       "engine": "Electric",
@@ -65,6 +43,149 @@
       "dailyPrice": 350,
       "segment": "electric",
       "image": "https://images.unsplash.com/photo-1619767886558-efdc259cde1a"
+    },
+    {
+      "id": "1aef",
+      "brand": "a",
+      "model": "a",
+      "color": "a",
+      "engine": "a",
+      "gearbox": "a",
+      "dailyPrice": "a",
+      "segment": "a",
+      "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8"
+    },
+    {
+      "id": "8a27",
+      "brand": "TEST TEST TES",
+      "model": "",
+      "color": "",
+      "engine": "",
+      "gearbox": "",
+      "dailyPrice": "",
+      "segment": "",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
+    },
+    {
+      "id": "3148",
+      "brand": "",
+      "model": "",
+      "color": "",
+      "engine": "",
+      "gearbox": "",
+      "dailyPrice": "",
+      "segment": "",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
+    },
+    {
+      "id": "aaec",
+      "brand": "alfa",
+      "model": "",
+      "color": "",
+      "engine": "",
+      "gearbox": "",
+      "dailyPrice": "",
+      "segment": "",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
+    },
+    {
+      "id": "fdaf",
+      "brand": "",
+      "model": "",
+      "color": "",
+      "engine": "",
+      "gearbox": "",
+      "dailyPrice": "",
+      "segment": "",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
+    },
+    {
+      "id": "817f",
+      "brand": "",
+      "model": "",
+      "color": "",
+      "engine": "",
+      "gearbox": "",
+      "dailyPrice": "",
+      "segment": "",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
+    },
+    {
+      "id": "906d",
+      "brand": "",
+      "model": "",
+      "color": "",
+      "engine": "",
+      "gearbox": "",
+      "dailyPrice": "",
+      "segment": "",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
+    },
+    {
+      "id": "e48b",
+      "brand": "",
+      "model": "",
+      "color": "",
+      "engine": "",
+      "gearbox": "",
+      "dailyPrice": "",
+      "segment": "",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
+    },
+    {
+      "id": "3aa7",
+      "brand": "",
+      "model": "",
+      "color": "",
+      "engine": "",
+      "gearbox": "",
+      "dailyPrice": "",
+      "segment": "",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
+    },
+    {
+      "id": "125d",
+      "brand": "",
+      "model": "",
+      "color": "",
+      "engine": "",
+      "gearbox": "",
+      "dailyPrice": "",
+      "segment": "",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
+    },
+    {
+      "id": "d39d",
+      "brand": "",
+      "model": "",
+      "color": "",
+      "engine": "",
+      "gearbox": "",
+      "dailyPrice": "",
+      "segment": "",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
+    },
+    {
+      "id": "3aa8",
+      "brand": "",
+      "model": "",
+      "color": "",
+      "engine": "",
+      "gearbox": "",
+      "dailyPrice": "",
+      "segment": "",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
+    },
+    {
+      "id": "f6a4",
+      "brand": "",
+      "model": "",
+      "color": "",
+      "engine": "",
+      "gearbox": "",
+      "dailyPrice": "",
+      "segment": "",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
     }
   ],
   "bookings": [],
