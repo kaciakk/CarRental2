@@ -7,6 +7,7 @@ const Navbar = () => {
       <NavLink to="/cars">Car</NavLink>
       <NavLink to="/admin/cars">Admin Cars</NavLink>
       <NavLink to="/admin/users">Admin Users</NavLink>
+      <NavLink to="/admin/booking">Admin Booking</NavLink>
     </div>
   );
 };

@@ -2,8 +2,8 @@
   "cars": [
     {
       "id": "3",
-      "brand": "DDDDDDDDDDDDDDDDDaaasdasdasdas",
-      "model": "Giuliadasdasdasdas",
+      "brand": "Mercedesss",
+      "model": "AMG",
       "color": "reddasdas",
       "engine": "2.0 Petroldasdas",
       "gearbox": "Manualdasdsa",
@@ -67,7 +67,7 @@
       "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
     },
     {
-      "id": "3148",
+      "id": "f6a4",
       "brand": "",
       "model": "",
       "color": "",
@@ -76,97 +76,25 @@
       "dailyPrice": "",
       "segment": "",
       "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "1"
     },
     {
-      "id": "aaec",
-      "brand": "alfa",
-      "model": "",
-      "color": "",
-      "engine": "",
-      "gearbox": "",
-      "dailyPrice": "",
-      "segment": "",
+      "id": "3",
+      "brand": "DDDDDDDDDDDDDDDDDaaasdasdasdas",
+      "model": "Giuliadasdasdasdas",
+      "color": "reddasdas",
+      "engine": "2.0 Petroldasdas",
+      "gearbox": "Manualdasdsa",
+      "dailyPrice": "230dsadass",
+      "segment": "sedandasdas",
       "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
     },
     {
-      "id": "fdaf",
-      "brand": "",
-      "model": "",
-      "color": "",
-      "engine": "",
-      "gearbox": "",
-      "dailyPrice": "",
-      "segment": "",
-      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
-    },
-    {
-      "id": "817f",
-      "brand": "",
-      "model": "",
-      "color": "",
-      "engine": "",
-      "gearbox": "",
-      "dailyPrice": "",
-      "segment": "",
-      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
-    },
-    {
-      "id": "906d",
-      "brand": "",
-      "model": "",
-      "color": "",
-      "engine": "",
-      "gearbox": "",
-      "dailyPrice": "",
-      "segment": "",
-      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
-    },
-    {
-      "id": "e48b",
-      "brand": "",
-      "model": "",
-      "color": "",
-      "engine": "",
-      "gearbox": "",
-      "dailyPrice": "",
-      "segment": "",
-      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
-    },
-    {
-      "id": "3aa7",
-      "brand": "",
-      "model": "",
-      "color": "",
-      "engine": "",
-      "gearbox": "",
-      "dailyPrice": "",
-      "segment": "",
-      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
-    },
-    {
-      "id": "125d",
-      "brand": "",
-      "model": "",
-      "color": "",
-      "engine": "",
-      "gearbox": "",
-      "dailyPrice": "",
-      "segment": "",
-      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
-    },
-    {
-      "id": "d39d",
-      "brand": "",
-      "model": "",
-      "color": "",
-      "engine": "",
-      "gearbox": "",
-      "dailyPrice": "",
-      "segment": "",
-      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
-    },
-    {
-      "id": "3aa8",
+      "id": "f6a4",
       "brand": "",
       "model": "",
       "color": "",
@@ -186,8 +114,102 @@
       "dailyPrice": "",
       "segment": "",
       "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
+    },
+    {
+      "id": "f6a4",
+      "brand": "",
+      "model": "",
+      "color": "",
+      "engine": "",
+      "gearbox": "",
+      "dailyPrice": "",
+      "segment": "",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
+    },
+    {
+      "id": "f6a4",
+      "brand": "",
+      "model": "",
+      "color": "",
+      "engine": "",
+      "gearbox": "",
+      "dailyPrice": "",
+      "segment": "",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
+    },
+    {
+      "id": "1",
+      "brand": "",
+      "model": "",
+      "color": "",
+      "engine": "",
+      "gearbox": "",
+      "dailyPrice": "",
+      "segment": "",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738",
+      "name": "adam",
+      "surname": "kubek",
+      "role": "user"
+    },
+    {
+      "id": "1",
+      "brand": "DDDDDDDDDDDDDDDDDaaasdasdasdas",
+      "model": "Giuliadasdasdasdas",
+      "color": "reddasdas",
+      "engine": "2.0 Petroldasdas",
+      "gearbox": "Manualdasdsa",
+      "dailyPrice": "230dsadass",
+      "segment": "sedandasdas",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738",
+      "name": "adam",
+      "surname": "kubek",
+      "role": "user"
+    },
+    {
+      "id": "1",
+      "brand": "Teslad",
+      "model": "Model 3",
+      "color": "white",
+      "engine": "Electric",
+      "gearbox": "Automatic",
+      "dailyPrice": 350,
+      "segment": "electric",
+      "image": "https://images.unsplash.com/photo-1619767886558-efdc259cde1a",
+      "name": "adam",
+      "surname": "kubek",
+      "role": "user"
+    },
+    {
+      "id": "2",
+      "brand": "Teslad",
+      "model": "Model 3",
+      "color": "white",
+      "engine": "Electric",
+      "gearbox": "Automatic",
+      "dailyPrice": 350,
+      "segment": "electric",
+      "image": "https://images.unsplash.com/photo-1619767886558-efdc259cde1a",
+      "name": "kasia",
+      "role": "user"
     }
   ],
-  "bookings": [],
-  "configs": []
+  "configs": [],
+  "users": [
+    {
+      "id": "1",
+      "name": "adam",
+      "surname": "kubek",
+      "role": "user"
+    },
+    {
+      "id": "2",
+      "name": "kasia",
+      "role": "user"
+    },
+    {
+      "id": "3",
+      "name": "bolek",
+      "role": "user"
+    }
+  ]
 }

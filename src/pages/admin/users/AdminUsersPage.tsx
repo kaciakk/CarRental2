@@ -1,7 +1,12 @@
 import React from "react";
+import AdminUsersList from "../../../features/admin/adminUsers/ui/AdminUsersList";
 
 const AdminUsersPage = () => {
-  return <div>AdminUsersPage</div>;
+  return (
+    <div>
+      <AdminUsersList />
+    </div>
+  );
 };
 
 export default AdminUsersPage;

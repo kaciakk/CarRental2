@@ -4,6 +4,7 @@ type CarTileProps = {
   model: string;
   dailyPrice: string;
   onDetails: () => void;
+  onBook: () => void;
 };
 const CarTile = ({
   image,
@@ -11,6 +12,7 @@ const CarTile = ({
   model,
   dailyPrice,
   onDetails,
+  onBook,
 }: CarTileProps) => {
   return (
     <>
@@ -28,6 +30,7 @@ const CarTile = ({
         <div>Model: {model}</div>
         <div>Cena: {dailyPrice}</div>
         <button onClick={onDetails}>Details</button>
+        <button onClick={onBook}>Book a Car</button>
       </div>
     </>
   );
