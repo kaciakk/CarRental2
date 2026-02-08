@@ -1,0 +1,30 @@
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-decoration:;
+}
+
+.navbar__links {
+  display: flex;
+  gap: 10px;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  cursor: pointer;
+  text-decoration: inherit;
+}
+
+.logoName1 {
+  color: #a10000;
+}
+.logoName2 {
+  color: #1e1e1e;
+}
+
+a {
+  text-decoration: none;
+}

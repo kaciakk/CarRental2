@@ -1,0 +1,215 @@
+{
+  "cars": [
+    {
+      "id": "3",
+      "brand": "Mercedesss",
+      "model": "AMG",
+      "color": "reddasdas",
+      "engine": "2.0 Petroldasdas",
+      "gearbox": "Manualdasdsa",
+      "dailyPrice": "230dsadass",
+      "segment": "sedandasdas",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
+    },
+    {
+      "id": "4",
+      "brand": "alfa",
+      "model": "Golf",
+      "color": "white",
+      "engine": "1.5 Petrol",
+      "gearbox": "Manual",
+      "dailyPrice": 160,
+      "segment": "hatchback",
+      "image": "https://images.unsplash.com/photo-1549924231-f129b911e442"
+    },
+    {
+      "id": "5",
+      "brand": "Mercedesss",
+      "model": "GLC",
+      "color": "silver",
+      "engine": "2.2 Diesel",
+      "gearbox": "Automatic",
+      "dailyPrice": 320,
+      "segment": "suv",
+      "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8"
+    },
+    {
+      "id": "6",
+      "brand": "Teslad",
+      "model": "Model 3",
+      "color": "white",
+      "engine": "Electric",
+      "gearbox": "Automatic",
+      "dailyPrice": 350,
+      "segment": "electric",
+      "image": "https://images.unsplash.com/photo-1619767886558-efdc259cde1a"
+    },
+    {
+      "id": "1aef",
+      "brand": "a",
+      "model": "a",
+      "color": "a",
+      "engine": "a",
+      "gearbox": "a",
+      "dailyPrice": "a",
+      "segment": "a",
+      "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8"
+    },
+    {
+      "id": "8a27",
+      "brand": "TEST TEST TES",
+      "model": "",
+      "color": "",
+      "engine": "",
+      "gearbox": "",
+      "dailyPrice": "",
+      "segment": "",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
+    },
+    {
+      "id": "f6a4",
+      "brand": "",
+      "model": "",
+      "color": "",
+      "engine": "",
+      "gearbox": "",
+      "dailyPrice": "",
+      "segment": "",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "1"
+    },
+    {
+      "id": "3",
+      "brand": "DDDDDDDDDDDDDDDDDaaasdasdasdas",
+      "model": "Giuliadasdasdasdas",
+      "color": "reddasdas",
+      "engine": "2.0 Petroldasdas",
+      "gearbox": "Manualdasdsa",
+      "dailyPrice": "230dsadass",
+      "segment": "sedandasdas",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
+    },
+    {
+      "id": "f6a4",
+      "brand": "",
+      "model": "",
+      "color": "",
+      "engine": "",
+      "gearbox": "",
+      "dailyPrice": "",
+      "segment": "",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
+    },
+    {
+      "id": "f6a4",
+      "brand": "",
+      "model": "",
+      "color": "",
+      "engine": "",
+      "gearbox": "",
+      "dailyPrice": "",
+      "segment": "",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
+    },
+    {
+      "id": "f6a4",
+      "brand": "",
+      "model": "",
+      "color": "",
+      "engine": "",
+      "gearbox": "",
+      "dailyPrice": "",
+      "segment": "",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
+    },
+    {
+      "id": "f6a4",
+      "brand": "",
+      "model": "",
+      "color": "",
+      "engine": "",
+      "gearbox": "",
+      "dailyPrice": "",
+      "segment": "",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
+    },
+    {
+      "id": "1",
+      "brand": "",
+      "model": "",
+      "color": "",
+      "engine": "",
+      "gearbox": "",
+      "dailyPrice": "",
+      "segment": "",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738",
+      "name": "adam",
+      "surname": "kubek",
+      "role": "user"
+    },
+    {
+      "id": "1",
+      "brand": "DDDDDDDDDDDDDDDDDaaasdasdasdas",
+      "model": "Giuliadasdasdasdas",
+      "color": "reddasdas",
+      "engine": "2.0 Petroldasdas",
+      "gearbox": "Manualdasdsa",
+      "dailyPrice": "230dsadass",
+      "segment": "sedandasdas",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738",
+      "name": "adam",
+      "surname": "kubek",
+      "role": "user"
+    },
+    {
+      "id": "1",
+      "brand": "Teslad",
+      "model": "Model 3",
+      "color": "white",
+      "engine": "Electric",
+      "gearbox": "Automatic",
+      "dailyPrice": 350,
+      "segment": "electric",
+      "image": "https://images.unsplash.com/photo-1619767886558-efdc259cde1a",
+      "name": "adam",
+      "surname": "kubek",
+      "role": "user"
+    },
+    {
+      "id": "2",
+      "brand": "Teslad",
+      "model": "Model 3",
+      "color": "white",
+      "engine": "Electric",
+      "gearbox": "Automatic",
+      "dailyPrice": 350,
+      "segment": "electric",
+      "image": "https://images.unsplash.com/photo-1619767886558-efdc259cde1a",
+      "name": "kasia",
+      "role": "user"
+    }
+  ],
+  "configs": [],
+  "users": [
+    {
+      "id": "1",
+      "name": "adam",
+      "surname": "kubek",
+      "role": "user"
+    },
+    {
+      "id": "2",
+      "name": "kasia",
+      "role": "user"
+    },
+    {
+      "id": "3",
+      "name": "bolek",
+      "role": "user"
+    }
+  ]
+}
