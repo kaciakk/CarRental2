@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { getUsers } from "../../../../entities/user/api/usersApi";
-
+import AdminUsersTile from "./AdminUsersTile";
+import styles from "./AdminUsersList.module.css";
 const AdminUsersList = () => {
   const [users, setUsers] = useState([]);
 
@@ -11,14 +12,19 @@ const AdminUsersList = () => {
     }
     loadUsers();
   }, []);
-  console.log(users);
+
   return (
-    <div>
+    <div className={styles.list}>
       {users.map((user) => {
         return (
-          <div>
-            {user.name} {user.role}
-          </div>
+          <AdminUsersTile
+            key={user.id}
+            avatar={user.avatar}
+            id={user.id}
+            name={user.name}
+            email={user.email}
+            role={user.role}
+          />
         );
       })}
     </div>

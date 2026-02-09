@@ -1,0 +1,9 @@
+.tile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.tile__icon {
+  font-size: 2rem;
+}

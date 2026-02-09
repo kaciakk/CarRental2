@@ -12,7 +12,7 @@ const Navbar = () => {
       </div>
       <div className={styles.logo}>
         <Link to="/">
-          <span className={styles.logoName1}>Kacia</span>
+          <span className={styles.logoName1}>kacia</span>
           <span className={styles.logoName2}>CAR</span>
         </Link>
       </div>

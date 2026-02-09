@@ -1,8 +1,8 @@
 import { createBrowserRouter } from "react-router";
 import App from "./App";
-import CarsPage from "./pages/cars/ui/CarsPage";
+import CarsPage from "./pages/cars/ui/CarPage/CarsPage";
 import HomePage from "./pages/home/ui/HomePage";
-import CarsDetailsPage from "./pages/cars/ui/CarsDetailsPage";
+import CarsDetailsPage from "./pages/cars/ui/CarDetailsPage/CarsDetailsPage";
 import AdminCarsPage from "./pages/admin/cars/AdminCarsPage";
 import AdminUsersPage from "./pages/admin/users/AdminUsersPage";
 import AdminBookingPage from "./pages/admin/bookings/AdminBookingsPage";

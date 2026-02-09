@@ -2,172 +2,49 @@
   "cars": [
     {
       "id": "3",
-      "brand": "Mercedesss",
-      "model": "AMG",
-      "color": "reddasdas",
-      "engine": "2.0 Petroldasdas",
-      "gearbox": "Manualdasdsa",
-      "dailyPrice": "230dsadass",
-      "segment": "sedandasdas",
-      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
+      "brand": "Mercedes",
+      "model": "AMG A45",
+      "color": "red",
+      "engine": "2.0 Petrol",
+      "gearbox": "Automatic",
+      "dailyPrice": 230,
+      "segment": "hatchback",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738",
+      "power": 421,
+      "fuel": "Petrol",
+      "year": 2019
     },
     {
       "id": "4",
-      "brand": "alfa",
+      "brand": "Volkswagen",
       "model": "Golf",
       "color": "white",
       "engine": "1.5 Petrol",
       "gearbox": "Manual",
       "dailyPrice": 160,
       "segment": "hatchback",
-      "image": "https://images.unsplash.com/photo-1549924231-f129b911e442"
+      "image": "https://images.unsplash.com/photo-1549924231-f129b911e442",
+      "power": 150,
+      "fuel": "Petrol",
+      "year": 2018
     },
     {
       "id": "5",
-      "brand": "Mercedesss",
+      "brand": "Mercedes",
       "model": "GLC",
       "color": "silver",
       "engine": "2.2 Diesel",
       "gearbox": "Automatic",
       "dailyPrice": 320,
       "segment": "suv",
-      "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8"
+      "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8",
+      "power": 170,
+      "fuel": "Diesel",
+      "year": 2017
     },
     {
       "id": "6",
-      "brand": "Teslad",
-      "model": "Model 3",
-      "color": "white",
-      "engine": "Electric",
-      "gearbox": "Automatic",
-      "dailyPrice": 350,
-      "segment": "electric",
-      "image": "https://images.unsplash.com/photo-1619767886558-efdc259cde1a"
-    },
-    {
-      "id": "1aef",
-      "brand": "a",
-      "model": "a",
-      "color": "a",
-      "engine": "a",
-      "gearbox": "a",
-      "dailyPrice": "a",
-      "segment": "a",
-      "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8"
-    },
-    {
-      "id": "8a27",
-      "brand": "TEST TEST TES",
-      "model": "",
-      "color": "",
-      "engine": "",
-      "gearbox": "",
-      "dailyPrice": "",
-      "segment": "",
-      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
-    },
-    {
-      "id": "f6a4",
-      "brand": "",
-      "model": "",
-      "color": "",
-      "engine": "",
-      "gearbox": "",
-      "dailyPrice": "",
-      "segment": "",
-      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
-    }
-  ],
-  "bookings": [
-    {
-      "id": "1"
-    },
-    {
-      "id": "3",
-      "brand": "DDDDDDDDDDDDDDDDDaaasdasdasdas",
-      "model": "Giuliadasdasdasdas",
-      "color": "reddasdas",
-      "engine": "2.0 Petroldasdas",
-      "gearbox": "Manualdasdsa",
-      "dailyPrice": "230dsadass",
-      "segment": "sedandasdas",
-      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
-    },
-    {
-      "id": "f6a4",
-      "brand": "",
-      "model": "",
-      "color": "",
-      "engine": "",
-      "gearbox": "",
-      "dailyPrice": "",
-      "segment": "",
-      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
-    },
-    {
-      "id": "f6a4",
-      "brand": "",
-      "model": "",
-      "color": "",
-      "engine": "",
-      "gearbox": "",
-      "dailyPrice": "",
-      "segment": "",
-      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
-    },
-    {
-      "id": "f6a4",
-      "brand": "",
-      "model": "",
-      "color": "",
-      "engine": "",
-      "gearbox": "",
-      "dailyPrice": "",
-      "segment": "",
-      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
-    },
-    {
-      "id": "f6a4",
-      "brand": "",
-      "model": "",
-      "color": "",
-      "engine": "",
-      "gearbox": "",
-      "dailyPrice": "",
-      "segment": "",
-      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738"
-    },
-    {
-      "id": "1",
-      "brand": "",
-      "model": "",
-      "color": "",
-      "engine": "",
-      "gearbox": "",
-      "dailyPrice": "",
-      "segment": "",
-      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738",
-      "name": "adam",
-      "surname": "kubek",
-      "role": "user"
-    },
-    {
-      "id": "1",
-      "brand": "DDDDDDDDDDDDDDDDDaaasdasdasdas",
-      "model": "Giuliadasdasdasdas",
-      "color": "reddasdas",
-      "engine": "2.0 Petroldasdas",
-      "gearbox": "Manualdasdsa",
-      "dailyPrice": "230dsadass",
-      "segment": "sedandasdas",
-      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738",
-      "name": "adam",
-      "surname": "kubek",
-      "role": "user"
-    },
-    {
-      "id": "1",
-      "brand": "Teslad",
+      "brand": "Tesla",
       "model": "Model 3",
       "color": "white",
       "engine": "Electric",
@@ -175,41 +52,181 @@
       "dailyPrice": 350,
       "segment": "electric",
       "image": "https://images.unsplash.com/photo-1619767886558-efdc259cde1a",
-      "name": "adam",
-      "surname": "kubek",
-      "role": "user"
+      "power": 283,
+      "fuel": "Electric",
+      "year": 2021
     },
     {
-      "id": "2",
-      "brand": "Teslad",
-      "model": "Model 3",
-      "color": "white",
-      "engine": "Electric",
+      "id": "7",
+      "brand": "BMW",
+      "model": "320i",
+      "color": "black",
+      "engine": "2.0 Petrol",
       "gearbox": "Automatic",
-      "dailyPrice": 350,
-      "segment": "electric",
-      "image": "https://images.unsplash.com/photo-1619767886558-efdc259cde1a",
-      "name": "kasia",
-      "role": "user"
+      "dailyPrice": 240,
+      "segment": "sedan",
+      "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023",
+      "power": 184,
+      "fuel": "Petrol",
+      "year": 2020
+    },
+    {
+      "id": "8",
+      "brand": "Audi",
+      "model": "A4",
+      "color": "gray",
+      "engine": "2.0 Diesel",
+      "gearbox": "Automatic",
+      "dailyPrice": 260,
+      "segment": "sedan",
+      "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70",
+      "power": 190,
+      "fuel": "Diesel",
+      "year": 2019
+    },
+    {
+      "id": "9",
+      "brand": "Toyota",
+      "model": "Corolla",
+      "color": "blue",
+      "engine": "1.8 Hybrid",
+      "gearbox": "Automatic",
+      "dailyPrice": 150,
+      "segment": "sedan",
+      "image": "https://images.unsplash.com/photo-1550355291-bbee04a92027",
+      "power": 122,
+      "fuel": "Hybrid",
+      "year": 2020
+    },
+    {
+      "id": "10",
+      "brand": "Skoda",
+      "model": "Octavia",
+      "color": "white",
+      "engine": "1.5 Petrol",
+      "gearbox": "Manual",
+      "dailyPrice": 155,
+      "segment": "wagon",
+      "image": "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d",
+      "power": 150,
+      "fuel": "Petrol",
+      "year": 2019
+    },
+    {
+      "id": "11",
+      "brand": "Hyundai",
+      "model": "Tucson",
+      "color": "darkgray",
+      "engine": "1.6 Petrol",
+      "gearbox": "Automatic",
+      "dailyPrice": 210,
+      "segment": "suv",
+      "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738",
+      "power": 177,
+      "fuel": "Petrol",
+      "year": 2020
+    },
+    {
+      "id": "12",
+      "brand": "Kia",
+      "model": "Ceed",
+      "color": "red",
+      "engine": "1.4 Petrol",
+      "gearbox": "Manual",
+      "dailyPrice": 135,
+      "segment": "hatchback",
+      "image": "https://images.unsplash.com/photo-1549924231-f129b911e442",
+      "power": 140,
+      "fuel": "Petrol",
+      "year": 2018
     }
   ],
-  "configs": [],
   "users": [
     {
       "id": "1",
-      "name": "adam",
-      "surname": "kubek",
-      "role": "user"
+      "name": "Adam",
+      "surname": "Kubek",
+      "email": "adam.kubek@gmail.com",
+      "role": "user",
+      "avatar": "https://i.pravatar.cc/150?img=1"
     },
     {
       "id": "2",
-      "name": "kasia",
-      "role": "user"
+      "name": "Kasia",
+      "surname": "Nowak",
+      "email": "kasia.nowak@gmail.com",
+      "role": "user",
+      "avatar": "https://i.pravatar.cc/150?img=5"
     },
     {
       "id": "3",
-      "name": "bolek",
-      "role": "user"
+      "name": "Bolek",
+      "surname": "Kowalski",
+      "email": "bolek.kowalski@gmail.com",
+      "role": "user",
+      "avatar": "https://i.pravatar.cc/150?img=8"
+    },
+    {
+      "id": "4",
+      "name": "Ania",
+      "surname": "Mazur",
+      "email": "ania.mazur@gmail.com",
+      "role": "user",
+      "avatar": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+      "id": "5",
+      "name": "Piotr",
+      "surname": "Zieliński",
+      "email": "piotr.zielinski@gmail.com",
+      "role": "user",
+      "avatar": "https://i.pravatar.cc/150?img=14"
+    },
+    {
+      "id": "6",
+      "name": "Michał",
+      "surname": "Dąbrowski",
+      "email": "michal.dabrowski@gmail.com",
+      "role": "user",
+      "avatar": "https://i.pravatar.cc/150?img=20"
+    },
+    {
+      "id": "99",
+      "name": "Admin",
+      "surname": "Administrator",
+      "email": "admin@yourapp.com",
+      "role": "admin",
+      "avatar": "https://i.pravatar.cc/150?img=32"
+    }
+  ],
+
+  "bookings": [
+    {
+      "id": "b1",
+      "carId": "6",
+      "userId": "1",
+      "dateFrom": "2026-02-10",
+      "dateTo": "2026-02-12",
+      "status": "confirmed",
+      "totalPrice": 700
+    },
+    {
+      "id": "b2",
+      "carId": "5",
+      "userId": "2",
+      "dateFrom": "2026-02-15",
+      "dateTo": "2026-02-18",
+      "status": "pending",
+      "totalPrice": 960
+    }
+  ],
+  "configs": [
+    {
+      "id": "main",
+      "currency": "PLN",
+      "deposit": 1000,
+      "minDays": 1,
+      "maxDays": 30
     }
   ]
 }

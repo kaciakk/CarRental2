@@ -8,4 +8,7 @@ export type Car = {
   dailyPrice: string;
   segment: string;
   image: string;
+  power: number;
+  fuel: string;
+  year: number;
 };

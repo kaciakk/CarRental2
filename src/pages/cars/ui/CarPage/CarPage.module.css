@@ -1,0 +1,14 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 4rem;
+  padding: 2rem 0 0 0;
+}
+
+.filter {
+}
+
+.list {
+}

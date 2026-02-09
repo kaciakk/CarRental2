@@ -1,0 +1,6 @@
+.admin__users {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem 0 0 0;
+}

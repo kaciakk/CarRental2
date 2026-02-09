@@ -1,0 +1,10 @@
+.card {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  justify-content: center;
+  margin: 0 10rem;
+}
+
+.card__left {
+  margin: 0 5rem;
+}
