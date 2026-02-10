@@ -1,7 +1,7 @@
 import { useParams } from "react-router";
 import { getCar } from "../../../../entities/car/api/carsApi";
 import { useEffect, useState } from "react";
-import type { Car } from "../../../../entities/car/model/types";
+import type { Car } from "../../../../entities/car/model/carTypes";
 import styles from "./CarDetailsPage.module.css";
 
 import CarDetailsImage from "../../../../features/carDetails/ui/CarDetailsImage";

@@ -1,4 +1,4 @@
-import type { Car } from "../model/types";
+import type { Car } from "../model/carTypes";
 
 const url: string = "http://localhost:3001/cars";
 

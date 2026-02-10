@@ -5,7 +5,7 @@ import {
   editCar,
   getCars,
 } from "../../../../entities/car/api/carsApi";
-import type { Car } from "../../../../entities/car/model/types";
+import type { Car } from "../../../../entities/car/model/carTypes";
 import AdminCarTile from "./AdminCarTile";
 
 const AdminCarList = () => {

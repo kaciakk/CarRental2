@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import CarsList from "../../../../features/carList/ui/CarList/CarsList";
-import type { Car } from "../../../../entities/car/model/types";
+import type { Car } from "../../../../entities/car/model/carTypes";
 import { getCar, getCars } from "../../../../entities/car/api/carsApi";
 import { createBooking } from "../../../../entities/booking/api/bookingsApi";
 import styles from "./CarPage.module.css";

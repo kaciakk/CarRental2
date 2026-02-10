@@ -1,18 +1,6 @@
-import { useEffect, useState } from "react";
-import { getUsers } from "../../../../entities/user/api/usersApi";
 import AdminUsersTile from "./AdminUsersTile";
 import styles from "./AdminUsersList.module.css";
-const AdminUsersList = () => {
-  const [users, setUsers] = useState([]);
-
-  useEffect(() => {
-    async function loadUsers() {
-      const response = await getUsers();
-      setUsers(response);
-    }
-    loadUsers();
-  }, []);
-
+const AdminUsersList = ({ users }) => {
   return (
     <div className={styles.list}>
       {users.map((user) => {
